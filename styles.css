@@ -1,0 +1,97 @@
+body{
+    font-family: sans-serif;
+    font-size: small;
+    font-weight: 100;
+}
+th, td, table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 1000px;
+}
+.i {
+    font-style: italic;
+    text-align: center;
+}
+.header, .head {
+    text-align: left;
+}
+.head{
+    font-weight: 100;
+}
+.acad {
+    font-weight: bold;
+    text-align: center;
+    border-top: 0;
+}
+.center {
+    text-align: center;
+}
+.subj {
+    width: 25%;
+    
+}
+.center, .Tabtwo, .corDes, .financial, .financeTable{
+    border-top: 0;
+}
+.units, .total {
+    width: 6%;
+    text-align: center;
+}
+.classN {
+    width: 19%;
+}
+.days {
+    width: 9%;
+    text-align: center;
+}
+.time {
+    width: 15%;
+}
+.room {
+    width: 7%;
+}
+.totUnits {
+    text-align: right;
+}
+.total {
+    font-weight: bold;
+}
+
+.subj, .units, .classN, .days, .time, .room, .instruc, .totUnits, .total, .amounts, .right, .chargesr {
+    border-bottom:0 ;
+    border-top: 0;
+}
+.left {
+    text-align: center;
+    border: 0;
+}
+.right, .amounts {
+    border-left: 0;
+}
+.amounts, .rightmost {
+    text-align: right;
+}
+.spons {
+    border: 0;
+}
+.chargesr {
+    border: 0;
+    text-align: right;
+    padding-right: 20px;
+}
+.charges {
+    border: 0;
+    text-align: left;
+    padding-left: 20px;
+}
+.rightmost {
+    border: 0;
+    padding-right: 20px;
+}
+
+
+
+
+
+
+
